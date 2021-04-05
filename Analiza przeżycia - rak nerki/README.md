@@ -1,0 +1,1 @@
+S³owa kluczowe: analiza prze¿ycia, model proporcjonalnych hazardów Coxa, testowanie hipotez statystycznych 
