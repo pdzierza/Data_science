@@ -1,1 +1,1 @@
-Key words: classification problem, Adaptive Boosting (AdaBoost), Bagging, Boosting, Tree Pruning, Random Forest, Support-vector machine, weight of evidence and information value, one-hot encodnig
+Problem klasyfikacyjny rozwiązany 3 metodami: XGboost, GBM i lasami losowymi

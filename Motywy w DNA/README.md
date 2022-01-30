@@ -1,5 +1,5 @@
-S³owa kluczowe: algorytm expectation maximization, statystyka i obliczenia, symulacyjny dobór parametrów
+Problem rozwiÄ…zany autorskÄ… implementacjÄ… algorytmu expectation maximization,  symulacyjny dobÃ³r parametrÃ³w
 
 UWAGA
 
-Zaleca siê zacz¹æ od przejrzenia raportu (plik pdf).
+Zaleca siÄ™ zaczÄ…Ä‡ od przejrzenia raportu (plik pdf).

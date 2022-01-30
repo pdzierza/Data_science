@@ -1,1 +1,1 @@
-S³owa kluczowe: system rekomenduj¹cy, przybli¿anie macierzy, non-negative matrix factorization (NMF), singular value decomposition (SVD), symulacyjny dobór parametrów
+Problem stworzenia systemu rekomendujÄ…cego rozwiÄ…zany matodami przybliÅ¼ania macierzy: non-negative matrix factorization (NMF), singular value decomposition (SVD) - symulacyjny dobÃ³r parametrÃ³w

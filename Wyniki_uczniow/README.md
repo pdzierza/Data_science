@@ -1,6 +1,6 @@
-S³owa kluczowe: Eksploracja dany, wizualizacja, testowanie hipotez statystycznych, rANOVA, problem regresji, XGBoost, klasteryzacja, metoda k œrednich
+SÅ‚owa kluczowe: Eksploracja dany, wizualizacja, testowanie hipotez statystycznych, rANOVA, problem regresji, XGBoost, klasteryzacja, metoda k Å›rednich
 
 UWAGA
 
-W folderze znajduj¹ siê dwie wersje tej samej analizy. Wersje ró¿ni¹ siê jedynie wygl¹dem wykresów - pierwsza wersja posiada interaktywne (i ogólnie ³adniejsze) wykresy. Naj³atwiej jednak jest po prostu obejrzeæ drug¹ wersjê (Wyniki_uczniow_v2) w formie podgl¹du wprost na stronie.
-Na ten moment jedynym dobrym sposobem na obejrzenie pierwszej wersji (Wyniki_uczniow) jest pobranie Wyniki_uczniow.html na dysk za pomoc¹ przycisku "Download" i opcji "Zapisz jako..." po klikniêciu prawym przyciskiem myszy na kod, który siê pojawi. Powodem takiej koniecznoœci jest brak renderowania przez portal Github.com skryptów, które wymagane s¹ do poprawnego wyœwietlania siê niektórych wykresów.
+W folderze znajdujÄ… siÄ™ dwie wersje tej samej analizy. Wersje rÃ³Å¼niÄ… siÄ™ jedynie wyglÄ…dem wykresÃ³w - pierwsza wersja posiada interaktywne (i ogÃ³lnie Å‚adniejsze) wykresy. NajÅ‚atwiej jednak jest  obejrzeÄ‡ drugÄ… wersjÄ™ (Wyniki_uczniow_v2) w formie podglÄ…du wprost na stronie.
+Na ten moment jedynym dobrym sposobem na obejrzenie pierwszej wersji (Wyniki_uczniow) jest pobranie Wyniki_uczniow.html na dysk za pomocÄ… przycisku "Download" i opcji "Zapisz jako..." po klikniÄ™ciu prawym przyciskiem myszy na kod, ktÃ³ry siÄ™ pojawi. Powodem takiej koniecznoÅ›ci jest brak renderowania przez portal Github.com skryptÃ³w, ktÃ³re wymagane sÄ… do poprawnego wyÅ›wietlania siÄ™ niektÃ³rych wykresÃ³w.

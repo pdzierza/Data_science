@@ -1,0 +1,1 @@
+Model regresji logistycznej przy zastosowaniu metody kodowania Weight of Evidence

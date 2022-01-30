@@ -1,1 +1,1 @@
-S≥owa kluczowe: analiza przeøycia, model proporcjonalnych hazardÛw Coxa, testowanie hipotez statystycznych 
+Modelowanie analizy prze≈ºycia -  model proporcjonalnych hazard√≥w Coxa
