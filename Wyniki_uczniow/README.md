@@ -1,4 +1,4 @@
-Słowa kluczowe: Eksploracja dany, wizualizacja, testowanie hipotez statystycznych, rANOVA, problem regresji, XGBoost, klasteryzacja, metoda k średnich
+Słowa kluczowe: Eksploracja danych, wizualizacja, testowanie hipotez statystycznych, rANOVA, problem regresji, XGBoost, klasteryzacja, metoda k średnich
 
 UWAGA
 
